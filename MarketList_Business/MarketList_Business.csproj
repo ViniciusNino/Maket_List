@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\MarketList_Model\MarketList_Model.csproj" />
+    <ProjectReference Include="..\MarketList_DTO\MarketList_DTO.csproj" />
+    <ProjectReference Include="..\MarketList_Repository\MarketList_Repository.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

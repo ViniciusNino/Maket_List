@@ -1,0 +1,12 @@
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\bin\Debug\netstandard2.0\MarketList_DTO.deps.json
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\bin\Debug\netstandard2.0\MarketList_DTO.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\bin\Debug\netstandard2.0\MarketList_DTO.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\bin\Debug\netstandard2.0\MarketList_Model.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\bin\Debug\netstandard2.0\MarketList_Model.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\obj\Debug\netstandard2.0\MarketList_DTO.csprojAssemblyReference.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\obj\Debug\netstandard2.0\MarketList_DTO.AssemblyInfoInputs.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\obj\Debug\netstandard2.0\MarketList_DTO.AssemblyInfo.cs
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\obj\Debug\netstandard2.0\MarketList_DTO.csproj.CoreCompileInputs.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\obj\Debug\netstandard2.0\MarketList_DTO.csproj.CopyComplete
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\obj\Debug\netstandard2.0\MarketList_DTO.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_DTO\obj\Debug\netstandard2.0\MarketList_DTO.pdb

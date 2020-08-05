@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MarketList_Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MarketList_Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MarketList_Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarketList_Data.dll": {}
+        }
+      },
+      "MarketList_Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MarketList_Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarketList_Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarketList_Data/1.0.0": {
+      "type": "project",
+      "path": "../MarketList_Data.csproj",
+      "msbuildProject": "../MarketList_Data.csproj"
+    },
+    "MarketList_Model/1.0.0": {
+      "type": "project",
+      "path": "../../MarketList_Model/MarketList_Model.csproj",
+      "msbuildProject": "../../MarketList_Model/MarketList_Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MarketList_Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vinic\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\Data_Iniciar\\Data_Iniciar.csproj",
+      "projectName": "Data_Iniciar",
+      "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\Data_Iniciar\\Data_Iniciar.csproj",
+      "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
+      "outputPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\Data_Iniciar\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\MarketList_Data.csproj": {
+              "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\MarketList_Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
