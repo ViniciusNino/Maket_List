@@ -10,6 +10,7 @@ namespace MarketList_Api.Controllers
     public class UsuarioController : ControllerBase
     {
         private readonly UsuarioBL _usuarioBL;
+        
         public UsuarioController(UsuarioBL usuarioBL)
         {
             _usuarioBL = usuarioBL;
