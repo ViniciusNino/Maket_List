@@ -34,6 +34,24 @@ namespace MarketList_Api.Controllers
                 return BadRequest(e);
             }
         }
+        [HttpGet]
+        [Route("GetId")]
+        public IActionResult GetId(int id)
+        {
+             try
+            {
+                var item = _itemBL.GetId(id);
+                if (item == null)
+                    return NotFound();
+                return Ok(item);
+
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e);
+            }
+        }
+
         [HttpPost]
         [Route("Post")]
         public IActionResult Post(Item item)

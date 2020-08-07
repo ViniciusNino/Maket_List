@@ -37,6 +37,15 @@
                 "/consoleloggerparameters:NoSummary"
             ],
             "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "marketList test",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "test",
+                "${workspaceFolder}/MarketList.Test/MarketList.Test.csproj"
+            ]
         }
     ]
 }

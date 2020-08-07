@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Business\\MarketList_Business.csproj": {}
+    "c:\\Projetos\\Market_List\\MarketList_Business\\MarketList_Business.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Business\\MarketList_Business.csproj": {
+    "c:\\Projetos\\Market_List\\MarketList_Business\\MarketList_Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Business\\MarketList_Business.csproj",
+        "projectUniqueName": "c:\\Projetos\\Market_List\\MarketList_Business\\MarketList_Business.csproj",
         "projectName": "MarketList_Business",
-        "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Business\\MarketList_Business.csproj",
+        "projectPath": "c:\\Projetos\\Market_List\\MarketList_Business\\MarketList_Business.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Business\\obj\\",
+        "outputPath": "c:\\Projetos\\Market_List\\MarketList_Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,14 +30,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj": {
-                "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj"
+              "c:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj": {
+                "projectPath": "c:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj"
               },
-              "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
-                "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
+              "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+                "projectPath": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
               },
-              "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj": {
-                "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj"
+              "c:\\Projetos\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj": {
+                "projectPath": "c:\\Projetos\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Data\\MarketList_Data.csproj": {
+    "c:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
+        "projectUniqueName": "c:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
         "projectName": "MarketList_Data",
-        "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
+        "projectPath": "c:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Data\\obj\\",
+        "outputPath": "c:\\Projetos\\Market_List\\MarketList_Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,8 +95,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
-                "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
+              "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+                "projectPath": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj": {
+    "c:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj",
+        "projectUniqueName": "c:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj",
         "projectName": "MarketList_DTO",
-        "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj",
+        "projectPath": "c:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_DTO\\obj\\",
+        "outputPath": "c:\\Projetos\\Market_List\\MarketList_DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -188,8 +188,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
-                "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
+              "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+                "projectPath": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
               }
             }
           }
@@ -221,14 +221,14 @@
         }
       }
     },
-    "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+    "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
+        "projectUniqueName": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
         "projectName": "MarketList_Model",
-        "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
+        "projectPath": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\obj\\",
+        "outputPath": "c:\\Projetos\\Market_List\\MarketList_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -276,14 +276,14 @@
         }
       }
     },
-    "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj": {
+    "c:\\Projetos\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj",
+        "projectUniqueName": "c:\\Projetos\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj",
         "projectName": "MarketList_Repository",
-        "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj",
+        "projectPath": "c:\\Projetos\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Repository\\obj\\",
+        "outputPath": "c:\\Projetos\\Market_List\\MarketList_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -302,11 +302,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Data\\MarketList_Data.csproj": {
-                "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Data\\MarketList_Data.csproj"
+              "c:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj": {
+                "projectPath": "c:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj"
               },
-              "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
-                "projectPath": "C:\\Projetos\\Nova MarketList\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
+              "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+                "projectPath": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
               }
             }
           }
