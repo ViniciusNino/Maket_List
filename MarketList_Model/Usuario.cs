@@ -12,6 +12,7 @@ namespace MarketList_Model
             _StatusUsuario = new StatusUsuario();
             ItemListaNIdUsuarioCompradorNavigation = new HashSet<ItemLista>();
             ItemListaNIdUsuarioSolicitanteNavigation = new HashSet<ItemLista>();
+            Lista = new HashSet<Lista>();
         }
         public string SUsuario { get; set; }
         public string SSenha { get; set; }
@@ -23,6 +24,7 @@ namespace MarketList_Model
         public virtual StatusUsuario _StatusUsuario { get; set; }
         public virtual ICollection<ItemLista> ItemListaNIdUsuarioCompradorNavigation { get; set; }
         public virtual ICollection<ItemLista> ItemListaNIdUsuarioSolicitanteNavigation { get; set; }
+        public virtual ICollection<Lista> Lista { get; set; }
         public virtual Unidade NIdUnidadeNavigation { get; set; }
     }
 }

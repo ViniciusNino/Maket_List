@@ -17,7 +17,7 @@ namespace MarketList_Model
         public string SNome { get; set; }
 
         public virtual Unidade NIdUnidadeNavigation { get; set; } 
-        public virtual Unidade NIdUsuarioNavigation { get; set; }
+        public virtual Usuario NIdUsuarioNavigation { get; set; }
         //public virtual Usuario NIdUsuarioNavigation { get; set; }
         public virtual ICollection<ItemLista> ItemLista { get; set; }
     }

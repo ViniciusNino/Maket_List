@@ -16,7 +16,7 @@ namespace MarketList_Data
             : base(options)
         {
         }
-        public virtual DbSet<Item> Item {get; set;}
+        public virtual DbSet<Item> Item { get; set; }
         public virtual DbSet<ItemLista> ItemLista { get; set; }
         public virtual DbSet<Lista> Lista { get; set; }
         public virtual DbSet<PerfilUsuario> PerfilUsuario { get; set; }
@@ -139,6 +139,7 @@ namespace MarketList_Data
                 entity.HasOne(d => d.NIdUnidadeNavigation)
                     .WithMany(p => p.Lista)
                     .HasForeignKey(d => d.NIdUnidade)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_Lista_Unidade");
 
                 entity.HasOne(d => d.NIdUsuarioNavigation)
@@ -244,18 +245,18 @@ namespace MarketList_Data
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
     }
 
-       public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<MarketListContext> 
-    { 
-        public MarketListContext CreateDbContext(string[] args) 
-        { 
+    public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<MarketListContext>
+    {
+        public MarketListContext CreateDbContext(string[] args)
+        {
             IConfigurationRoot configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile(@Directory.GetCurrentDirectory() + "../appsettings.json")
-                .Build(); 
-            var builder = new DbContextOptionsBuilder<MarketListContext>(); 
-            var connectionString = configuration.GetConnectionString("DefaultConnection"); 
-            builder.UseSqlServer(connectionString); 
-            return new MarketListContext(builder.Options); 
-        } 
-    }   
+                .Build();
+            var builder = new DbContextOptionsBuilder<MarketListContext>();
+            var connectionString = configuration.GetConnectionString("DefaultConnection");
+            builder.UseSqlServer(connectionString);
+            return new MarketListContext(builder.Options);
+        }
+    }
 }

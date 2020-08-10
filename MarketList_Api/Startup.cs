@@ -45,7 +45,7 @@ namespace MarketList_Api
             services.AddTransient<IItemRepository, ItemRepository>();
             services.AddTransient<IItemListaBL, ItemListaBL>();
             services.AddTransient<IItemListaRepository, ItemListaRepository>();
-            services.AddTransient<IListaBL, IListaBL>();
+            services.AddTransient<IListaBL, ListaBL>();
             services.AddTransient<IListaRepository, ListaRepository>();
             services.AddTransient<IPerfilUsuarioBL, PerfilUsuarioBL>();
             services.AddTransient<IPerfilUsuarioRepository, PerfilUsuarioRepository>();
