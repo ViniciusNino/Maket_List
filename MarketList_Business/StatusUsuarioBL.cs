@@ -4,7 +4,7 @@ using MarketList_Model;
 
 namespace MarketList_Business
 {
-    public class StatusUsuarioBL : BaseBusiness<StatusUsuario>, IStatusUsusarioBL
+    public class StatusUsuarioBL : BaseBusiness<StatusUsuario>, IStatusUsuarioBL
     {
         public StatusUsuarioBL(MarketListContext context) : base(context)
         {

@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using MarketList_Business;
+using MarketList_Business.Interfaces;
 using MarketList_DTO;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,10 +8,10 @@ namespace MarketList_Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class ItemListaController : ControllerBase
+    public class ItemListaController : Controller
     {
-        private readonly ItemListaBL _itemListaBL;
-        public ItemListaController(ItemListaBL itemListaBL)
+        private readonly IItemListaBL _itemListaBL;
+        public ItemListaController(IItemListaBL itemListaBL)
         {
             _itemListaBL = itemListaBL;
         }

@@ -1,7 +1,8 @@
-using System;
+using System.Threading.Tasks;
 using MarketList_Api.Controllers;
 using MarketList_Business;
 using MarketList_Data;
+using MarketList_DTO;
 using MarketList_Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -12,49 +13,49 @@ using Moq;
 namespace MarketList.Test.Itens
 {
     [TestClass]
-    public class ItemControllerAdicionar
+    public class ItemControllerGetId
     {
+
         [TestMethod]
-        public void AdicionartemValido()
+        public void BuscarItemPorIdRetornaObjeto()
         {
             //Arrange
-            var id = 1;
-            var comando = new Item { Id = id, SNome = "Queijo", SUnidadeMedida = "Kg", NIdSessao = 1 };
+            var objeto = new vmItemEItemLista() { Id = 1, SNome = "teste", SUnidadeMedida = "Kg", NIdSessao = 1 };
 
             var options = new DbContextOptionsBuilder<MarketListContext>()
-                .UseInMemoryDatabase("AdicionartemValido")
+                .UseInMemoryDatabase("BuscarItemPorIdRetornaObjeto")
                 .Options;
             var contexto = new MarketListContext(options);
             var itemBL = new ItemBL(contexto);
             var itemController = new ItemController(itemBL);
+            itemController.Post(objeto);
 
             //Act
-            var actionResult = itemController.Post(comando);
+            var actionResult = itemController.GetId(1);
+            var okResult = actionResult as OkObjectResult;
+            var item = okResult.Value as vmItemEItemLista;
+
 
             //Assert
-            Assert.IsInstanceOfType(actionResult, typeof(OkObjectResult));
+            Assert.AreEqual(objeto.SNome, item.SNome);
         }
 
-        [DataRow(1, "Queijo", "Kg", 0)]
-        [DataRow(1, "Queijo", null, 1)]
-        [DataRow(1, null, "Kg", 1)]
         [TestMethod]
-        public void AdicionarItemComCamposNullRetornaErro(int id, string nome, string un, int idSessao)
+        public void BuscarItemPorIdQueNaoExisteRetornaNotFound()
         {
-            var comando = new Item { Id = id, SNome = nome, SUnidadeMedida = un, NIdSessao = idSessao };
-
+            //Arrange
             var options = new DbContextOptionsBuilder<MarketListContext>()
-                .UseInMemoryDatabase("AdicionarItemComCamposNullRetornaErro")
+                .UseInMemoryDatabase("BuscarItemPorIdQueNaoExisteRetornaNotFound")
                 .Options;
             var contexto = new MarketListContext(options);
             var itemBL = new ItemBL(contexto);
             var itemController = new ItemController(itemBL);
 
             //Act
-            var actionResult = itemController.Post(comando);
+            var actionResult = itemController.GetId(300);
 
             //Assert
-            Assert.IsInstanceOfType(actionResult, typeof(BadRequestObjectResult));
+            Assert.IsInstanceOfType(actionResult, typeof(NotFoundResult));
         }
     }
 }

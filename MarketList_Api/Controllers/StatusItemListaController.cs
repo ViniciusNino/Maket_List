@@ -1,5 +1,5 @@
 using System;
-using MarketList_Business;
+using MarketList_Business.Interfaces;
 using MarketList_Model;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,10 +7,10 @@ namespace MarketList_Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class StatusItemListaController : ControllerBase
+    public class StatusItemListaController : Controller
     {
-        private readonly StatusItemListaBL _statusItemListaBL;
-        public StatusItemListaController(StatusItemListaBL statusItemListaBL)
+        private readonly IStatusItemListaBL _statusItemListaBL;
+        public StatusItemListaController(IStatusItemListaBL statusItemListaBL)
         {
             _statusItemListaBL = statusItemListaBL;
         }

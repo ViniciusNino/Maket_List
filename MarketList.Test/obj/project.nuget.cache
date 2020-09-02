@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yUnbwOT/d+R9FqsiNove0AIvDNOifiI1s4i0J5xJ3sclZBSt/0QrZ8qQT49I4rqeI9lZtTuwrbR3janjvcOQwA==",
+  "dgSpecHash": "dC/gvFtHG3KOyF0Pt2d1q5I+kKYFcaCaesERRzY9SXwh47ypNmXAmdy8LMR+xOfou9OhCehDaDkpxz0QYP+U3g==",
   "success": true,
   "projectFilePath": "c:\\Projetos\\Market_List\\MarketList.Test\\MarketList.Test.csproj",
   "expectedPackageFiles": [
@@ -122,7 +122,7 @@
     "C:\\Users\\vinic\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\system.runtime.serialization.json\\4.3.0\\system.runtime.serialization.json.4.3.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",

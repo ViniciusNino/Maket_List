@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj": {}
+    "C:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj": {
+    "C:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj",
+        "projectUniqueName": "C:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj",
         "projectName": "MarketList_DTO",
-        "projectPath": "c:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj",
+        "projectPath": "C:\\Projetos\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\Market_List\\MarketList_DTO\\obj\\",
+        "outputPath": "C:\\Projetos\\Market_List\\MarketList_DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
-                "projectPath": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
+              "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+                "projectPath": "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
               }
             }
           }
@@ -59,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+    "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
+        "projectUniqueName": "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
         "projectName": "MarketList_Model",
-        "projectPath": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
+        "projectPath": "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\Market_List\\MarketList_Model\\obj\\",
+        "outputPath": "C:\\Projetos\\Market_List\\MarketList_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -114,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

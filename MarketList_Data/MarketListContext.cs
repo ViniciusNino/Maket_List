@@ -255,7 +255,10 @@ namespace MarketList_Data
                 .Build();
             var builder = new DbContextOptionsBuilder<MarketListContext>();
             var connectionString = configuration.GetConnectionString("DefaultConnection");
-            builder.UseSqlServer(connectionString);
+            if (!builder.IsConfigured)
+            {
+                builder.UseSqlServer(connectionString);
+            }
             return new MarketListContext(builder.Options);
         }
     }

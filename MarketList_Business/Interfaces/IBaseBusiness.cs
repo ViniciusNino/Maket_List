@@ -7,6 +7,7 @@ namespace MarketList_Business.Interfaces
         T GetId(int id);
         IQueryable<T> List();
         T Adicionar(T item);
+        void Atualizar(T item);
         void Remover(int id);
     }
 }

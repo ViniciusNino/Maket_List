@@ -7,7 +7,7 @@ using MarketList_Repository;
 
 namespace MarketList_Business
 {
-    public class BaseBusiness<T> : IBaseBusiness<T> where T : class
+    public abstract class BaseBusiness<T> : IBaseBusiness<T> where T : class
     {
         private BaseRepository<T> _rep;
         private MarketListContext _marketListContest;
@@ -43,19 +43,24 @@ namespace MarketList_Business
         {
             try
             {
-                Type t = item.GetType();
-                PropertyInfo prop = t.GetProperty("Id");
-
-                if (prop == null)
-                    _rep.Adicionar(item);
-                else
-                    _rep.Atualizar(item);
+                _rep.Adicionar(item);
             }
             catch (Exception e)
             {
                 throw new Exception("Não foi possível realizar a persistência dos dados! Mensagem: " + e.Message);
             }
             return item;
+        }
+        public void Atualizar(T item)
+        {
+            try
+            {
+                _rep.Atualizar(item);
+            }
+            catch (Exception e)
+            {
+                throw new Exception("Não foi possível realizar a atualização dos dados! " + e.Message);
+            }
         }
         public void Remover(int id)
         {

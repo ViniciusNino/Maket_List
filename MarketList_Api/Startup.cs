@@ -6,12 +6,10 @@ using MarketList_Repository;
 using MarketList_Repository.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Newtonsoft.Json;
 
 namespace MarketList_Api
 {
@@ -31,34 +29,28 @@ namespace MarketList_Api
             var configuration = builder.Build();
 
             services.AddControllers().AddNewtonsoftJson(options =>
-            options
-            .SerializerSettings
-            .ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
-
-            services.AddMvc(option =>
-                option.EnableEndpointRouting = false).AddNewtonsoftJson(options =>
-                    options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore).SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
             services.AddDbContext<MarketListContext>(options => options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddTransient<IItemBL, ItemBL>();
             services.AddTransient<IItemRepository, ItemRepository>();
-            services.AddTransient<IItemListaBL, ItemListaBL>();
+            services.AddTransient<IItemBL, ItemBL>();
             services.AddTransient<IItemListaRepository, ItemListaRepository>();
-            services.AddTransient<IListaBL, ListaBL>();
+            services.AddTransient<IItemListaBL, ItemListaBL>();
             services.AddTransient<IListaRepository, ListaRepository>();
-            services.AddTransient<IPerfilUsuarioBL, PerfilUsuarioBL>();
+            services.AddTransient<IListaBL, ListaBL>();
             services.AddTransient<IPerfilUsuarioRepository, PerfilUsuarioRepository>();
-            services.AddTransient<ISessaoBL, SessaoBL>();
+            services.AddTransient<IPerfilUsuarioBL, PerfilUsuarioBL>();
             services.AddTransient<ISessaoRepository, SessaoRepository>();
-            services.AddTransient<IStatusItemListaBL, StatusItemListaBL>();
+            services.AddTransient<ISessaoBL, SessaoBL>();
             services.AddTransient<IStatusItemListaRepository, StatusItemListaRepository>();
-            services.AddTransient<IStatusUsusarioBL, StatusUsuarioBL>();
+            services.AddTransient<IStatusItemListaBL, StatusItemListaBL>();
             services.AddTransient<IStatusUsuarioRepository, StatusUsuarioRepository>();
-            services.AddTransient<IUnidadeBL, UnidadeBL>();
+            services.AddTransient<IStatusUsuarioBL, StatusUsuarioBL>();
             services.AddTransient<IUnidadeRepository, UnidadeRepository>();
-            services.AddTransient<IUsuarioBL, UsuarioBL>();
+            services.AddTransient<IUnidadeBL, UnidadeBL>();
             services.AddTransient<IUsuarioRepository, UsuarioRepository>();
+            services.AddTransient<IUsuarioBL, UsuarioBL>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

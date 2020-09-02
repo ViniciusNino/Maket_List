@@ -1,5 +1,6 @@
 using System;
-using MarketList_Business;
+using System.Linq;
+using MarketList_Business.Interfaces;
 using MarketList_Model;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,11 +10,16 @@ namespace MarketList_Api.Controllers
     [Route("[controller]")]
     public class ItemController : Controller
     {
-        private readonly ItemBL _itemBL;
-
-        public ItemController(ItemBL itemBL)
+        private readonly IItemBL _itemBL;
+        public ItemController(IItemBL itemBL)
         {
             _itemBL = itemBL;
+        }
+        private bool ItemValido(Item item)
+        {
+            if (item.SNome == null || item.SUnidadeMedida == null || item.NIdSessao == 0)
+                return false;
+            return true;
         }
 
         [HttpGet]
@@ -22,10 +28,9 @@ namespace MarketList_Api.Controllers
         {
             try
             {
-                var lista = _itemBL.ListVm();
-                if (lista == null)
+                var lista = _itemBL.ListVm().ToList();
+                if (lista == null || lista.Count == 0)
                     return NotFound();
-
 
                 return Ok(lista);
             }
@@ -34,11 +39,12 @@ namespace MarketList_Api.Controllers
                 return BadRequest(e);
             }
         }
+        
         [HttpGet]
         [Route("GetId")]
-        public IActionResult GetId(int id)
+        public ActionResult GetId(int id)
         {
-             try
+            try
             {
                 var item = _itemBL.GetId(id);
                 if (item == null)
@@ -58,8 +64,12 @@ namespace MarketList_Api.Controllers
         {
             try
             {
-                _itemBL.Adicionar(item);
-                return Ok("Item adicionado com sucesso!");
+                if (ItemValido(item))
+                {
+                    _itemBL.Adicionar(item);
+                    return Ok("Item adicionado com sucesso!");
+                }
+                throw new Exception();
             }
             catch (Exception e)
             {

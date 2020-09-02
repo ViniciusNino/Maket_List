@@ -20,7 +20,8 @@ namespace MarketList_Business
             {
                 Id = item.Id,
                 SNome = item.SNome,
-                SUnidadeMedida = item.SUnidadeMedida
+                SUnidadeMedida = item.SUnidadeMedida,
+                NIdSessao = item.NIdSessao
             };
             return vmItemEItemLista;
         }
@@ -28,11 +29,11 @@ namespace MarketList_Business
         {
             var lItem = this.List();
             List<vmItemEItemLista> lvmItemEItemLista = new List<vmItemEItemLista>();
-
             foreach (var i in lItem)
             {
                 lvmItemEItemLista.Add(ParseItemToVmItemEItemLista(i));
             }
+
             return lvmItemEItemLista;
         }
         public vmItemEItemLista GetIdVm(int id)

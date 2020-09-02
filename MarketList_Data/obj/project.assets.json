@@ -4055,12 +4055,11 @@
       ]
     },
     "System.Runtime.Serialization.Formatters/4.3.0": {
-      "sha512": "KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
+      "sha512": "/6TBGmTm0ltq4rDIHHudNzLgLq1XoLeXmPDyp6w3Olb9Y8MVJZHQ49Orh9SZQKISsO9hsXQt/zo5/JuVRI/FYg==",
       "type": "package",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5122,11 +5121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
+      "projectUniqueName": "C:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
       "projectName": "MarketList_Data",
-      "projectPath": "c:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
+      "projectPath": "C:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "c:\\Projetos\\Market_List\\MarketList_Data\\obj\\",
+      "outputPath": "C:\\Projetos\\Market_List\\MarketList_Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5145,8 +5144,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
-              "projectPath": "c:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
+            "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+              "projectPath": "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
             }
           }
         }
@@ -5208,7 +5207,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

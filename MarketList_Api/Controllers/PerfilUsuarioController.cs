@@ -1,5 +1,5 @@
 using System;
-using MarketList_Business;
+using MarketList_Business.Interfaces;
 using MarketList_Model;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,10 +7,10 @@ namespace MarketList_Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class PerfilUsuarioController : ControllerBase
+    public class PerfilUsuarioController : Controller
     {
-        private readonly PerfilUsuarioBL _perfilUsuarioBL;
-        public PerfilUsuarioController(PerfilUsuarioBL perfilUsuarioBL)
+        private readonly IPerfilUsuarioBL _perfilUsuarioBL;
+        public PerfilUsuarioController(IPerfilUsuarioBL perfilUsuarioBL)
         {
             _perfilUsuarioBL = perfilUsuarioBL;
         }

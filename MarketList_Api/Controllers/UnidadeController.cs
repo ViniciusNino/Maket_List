@@ -1,5 +1,5 @@
 using System;
-using MarketList_Business;
+using MarketList_Business.Interfaces;
 using MarketList_Model;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,10 +7,10 @@ namespace MarketList_Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class UnidadeController : ControllerBase
+    public class UnidadeController : Controller
     {
-        private readonly UnidadeBL _unidadeBL;
-        public UnidadeController(UnidadeBL unidadeBL)
+        private readonly IUnidadeBL _unidadeBL;
+        public UnidadeController(IUnidadeBL unidadeBL)
         {
             _unidadeBL = unidadeBL;
         }

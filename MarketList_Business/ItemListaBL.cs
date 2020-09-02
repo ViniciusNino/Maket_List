@@ -19,13 +19,13 @@ namespace MarketList_Business
             _context = context;
             itemListaRep = new ItemListaRepository(_context);
         }
-        private vmItemEItemLista ParseItemListaToVmItemEItemLista(ItemLista itemLista, ItemRepository itemRep)
+        private vmItemEItemLista ParseItemListaToVmItemEItemLista(ItemLista itemLista)
         {
             vmItemEItemLista vmItemEItemLista = new vmItemEItemLista()
             {
                 nIdItemLista = itemLista.Id,
                 nQuantidade = itemLista.NQuantidade,
-                SNome = itemRep.GetId(itemLista.NIdItem).SNome,
+                SNome = itemLista.NIdItemNavigation.SNome,
                 SUnidadeMedida = itemLista.SUnidadeMedida
             };
             return vmItemEItemLista;
@@ -118,7 +118,7 @@ namespace MarketList_Business
 
             foreach (var itemLista in lItemLista)
             {
-                lvmItemEItemLista.Add(ParseItemListaToVmItemEItemLista(itemLista, itemRep));
+                lvmItemEItemLista.Add(ParseItemListaToVmItemEItemLista(itemLista));
             }
 
             return lvmItemEItemLista;
