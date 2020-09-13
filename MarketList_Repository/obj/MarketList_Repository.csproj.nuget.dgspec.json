@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj": {}
+    "d:\\Estudo Programacao\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj": {
+    "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\MarketList_Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
+        "projectUniqueName": "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
         "projectName": "MarketList_Data",
-        "projectPath": "C:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
+        "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\MarketList_Data.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Market_List\\MarketList_Data\\obj\\",
+        "outputPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
-                "projectPath": "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
+              "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+                "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
               }
             }
           }
@@ -93,22 +90,19 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+    "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
+        "projectUniqueName": "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
         "projectName": "MarketList_Model",
-        "projectPath": "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
+        "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\MarketList_Model.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Market_List\\MarketList_Model\\obj\\",
+        "outputPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -148,22 +142,19 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj": {
+    "d:\\Estudo Programacao\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj",
+        "projectUniqueName": "d:\\Estudo Programacao\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj",
         "projectName": "MarketList_Repository",
-        "projectPath": "C:\\Projetos\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj",
+        "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Repository\\MarketList_Repository.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Market_List\\MarketList_Repository\\obj\\",
+        "outputPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -178,11 +169,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj": {
-                "projectPath": "C:\\Projetos\\Market_List\\MarketList_Data\\MarketList_Data.csproj"
+              "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\MarketList_Data.csproj": {
+                "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Data\\MarketList_Data.csproj"
               },
-              "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
-                "projectPath": "C:\\Projetos\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
+              "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
+                "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
               }
             }
           }
@@ -210,7 +201,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

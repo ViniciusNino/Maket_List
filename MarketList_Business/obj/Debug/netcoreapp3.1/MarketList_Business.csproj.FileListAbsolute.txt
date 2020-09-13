@@ -34,3 +34,21 @@ C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_B
 C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CopyComplete
 C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.dll
 C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.deps.json
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csprojAssemblyReference.cache
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfoInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfo.cs
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CoreCompileInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CopyComplete
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.pdb

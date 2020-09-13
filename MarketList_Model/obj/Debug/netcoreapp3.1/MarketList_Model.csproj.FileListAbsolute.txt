@@ -16,3 +16,12 @@ C:\Projetos\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Mode
 C:\Projetos\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Model.csproj.CoreCompileInputs.cache
 C:\Projetos\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Model.dll
 C:\Projetos\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Model.pdb
+d:\Estudo Programacao\Market_List\MarketList_Model\bin\Debug\netcoreapp3.1\MarketList_Model.deps.json
+d:\Estudo Programacao\Market_List\MarketList_Model\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+d:\Estudo Programacao\Market_List\MarketList_Model\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+d:\Estudo Programacao\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Model.csprojAssemblyReference.cache
+d:\Estudo Programacao\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Model.AssemblyInfoInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Model.AssemblyInfo.cs
+d:\Estudo Programacao\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Model.csproj.CoreCompileInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Model.dll
+d:\Estudo Programacao\Market_List\MarketList_Model\obj\Debug\netcoreapp3.1\MarketList_Model.pdb

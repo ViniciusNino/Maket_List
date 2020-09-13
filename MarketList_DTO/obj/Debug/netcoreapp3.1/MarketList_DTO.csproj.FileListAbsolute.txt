@@ -22,3 +22,15 @@ C:\Projetos\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.cs
 C:\Projetos\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.csproj.CopyComplete
 C:\Projetos\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.dll
 C:\Projetos\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.pdb
+d:\Estudo Programacao\Market_List\MarketList_DTO\bin\Debug\netcoreapp3.1\MarketList_DTO.deps.json
+d:\Estudo Programacao\Market_List\MarketList_DTO\bin\Debug\netcoreapp3.1\MarketList_DTO.dll
+d:\Estudo Programacao\Market_List\MarketList_DTO\bin\Debug\netcoreapp3.1\MarketList_DTO.pdb
+d:\Estudo Programacao\Market_List\MarketList_DTO\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+d:\Estudo Programacao\Market_List\MarketList_DTO\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+d:\Estudo Programacao\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.csprojAssemblyReference.cache
+d:\Estudo Programacao\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.AssemblyInfoInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.AssemblyInfo.cs
+d:\Estudo Programacao\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.csproj.CoreCompileInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.csproj.CopyComplete
+d:\Estudo Programacao\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.dll
+d:\Estudo Programacao\Market_List\MarketList_DTO\obj\Debug\netcoreapp3.1\MarketList_DTO.pdb
