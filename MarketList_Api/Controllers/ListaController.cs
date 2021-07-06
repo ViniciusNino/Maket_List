@@ -62,5 +62,9 @@ namespace MarketList_Api.Controllers
             }
 
         }
+         public int Testar()
+        {
+            return 0;
+        }
     }
 }
