@@ -1,7 +1,0 @@
-{
-  "name": "ml_app",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
