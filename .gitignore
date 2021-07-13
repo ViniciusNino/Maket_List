@@ -1,0 +1,5 @@
+*.dll
+*.txt
+*.cache
+*.pdb
+*.assets.cache
