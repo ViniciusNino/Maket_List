@@ -1,0 +1,60 @@
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.deps.json
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.runtimeconfig.json
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.runtimeconfig.dev.json
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csprojAssemblyReference.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.AssemblyInfoInputs.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.AssemblyInfo.cs
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csproj.CopyComplete
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.genruntimeconfig.cache
+C:\Projetos\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.deps.json
+C:\Projetos\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.runtimeconfig.json
+C:\Projetos\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.runtimeconfig.dev.json
+C:\Projetos\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.dll
+C:\Projetos\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.pdb
+C:\Projetos\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+C:\Projetos\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+C:\Projetos\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csprojAssemblyReference.cache
+C:\Projetos\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.AssemblyInfoInputs.cache
+C:\Projetos\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.AssemblyInfo.cs
+C:\Projetos\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csproj.CopyComplete
+C:\Projetos\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.dll
+C:\Projetos\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.pdb
+C:\Projetos\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.genruntimeconfig.cache
+d:\Estudo Programacao\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.deps.json
+d:\Estudo Programacao\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.runtimeconfig.json
+d:\Estudo Programacao\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.runtimeconfig.dev.json
+d:\Estudo Programacao\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.dll
+d:\Estudo Programacao\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.pdb
+d:\Estudo Programacao\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+d:\Estudo Programacao\Market_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+d:\Estudo Programacao\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csprojAssemblyReference.cache
+d:\Estudo Programacao\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.AssemblyInfoInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.AssemblyInfo.cs
+d:\Estudo Programacao\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csproj.CoreCompileInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csproj.CopyComplete
+d:\Estudo Programacao\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.dll
+d:\Estudo Programacao\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.pdb
+d:\Estudo Programacao\Market_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.genruntimeconfig.cache
+P:\Nino Programas\Maket_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.deps.json
+P:\Nino Programas\Maket_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.runtimeconfig.json
+P:\Nino Programas\Maket_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.runtimeconfig.dev.json
+P:\Nino Programas\Maket_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.dll
+P:\Nino Programas\Maket_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Data.pdb
+P:\Nino Programas\Maket_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+P:\Nino Programas\Maket_List\MarketList_Data\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+P:\Nino Programas\Maket_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csproj.AssemblyReference.cache
+P:\Nino Programas\Maket_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.AssemblyInfoInputs.cache
+P:\Nino Programas\Maket_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.AssemblyInfo.cs
+P:\Nino Programas\Maket_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csproj.CoreCompileInputs.cache
+P:\Nino Programas\Maket_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.csproj.CopyComplete
+P:\Nino Programas\Maket_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.dll
+P:\Nino Programas\Maket_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.pdb
+P:\Nino Programas\Maket_List\MarketList_Data\obj\Debug\netcoreapp3.1\MarketList_Data.genruntimeconfig.cache

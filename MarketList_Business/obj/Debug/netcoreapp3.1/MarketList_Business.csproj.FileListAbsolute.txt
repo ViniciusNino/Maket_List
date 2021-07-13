@@ -1,0 +1,72 @@
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.deps.json
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csprojAssemblyReference.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfoInputs.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfo.cs
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CoreCompileInputs.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CopyComplete
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.pdb
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.deps.json
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.dll
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.pdb
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.dll
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.dll
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.dll
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.pdb
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.pdb
+C:\Projetos\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.pdb
+C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csprojAssemblyReference.cache
+C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfoInputs.cache
+C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfo.cs
+C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CoreCompileInputs.cache
+C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CopyComplete
+C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.dll
+C:\Projetos\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.deps.json
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.pdb
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csprojAssemblyReference.cache
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfoInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfo.cs
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CoreCompileInputs.cache
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CopyComplete
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.dll
+d:\Estudo Programacao\Market_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.pdb
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.deps.json
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.dll
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Business.pdb
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.dll
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.dll
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.dll
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.dll
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Model.pdb
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_DTO.pdb
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Repository.pdb
+P:\Nino Programas\Maket_List\MarketList_Business\bin\Debug\netcoreapp3.1\MarketList_Data.pdb
+P:\Nino Programas\Maket_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.AssemblyReference.cache
+P:\Nino Programas\Maket_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfoInputs.cache
+P:\Nino Programas\Maket_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.AssemblyInfo.cs
+P:\Nino Programas\Maket_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CoreCompileInputs.cache
+P:\Nino Programas\Maket_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.csproj.CopyComplete
+P:\Nino Programas\Maket_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.dll
+P:\Nino Programas\Maket_List\MarketList_Business\obj\Debug\netcoreapp3.1\MarketList_Business.pdb

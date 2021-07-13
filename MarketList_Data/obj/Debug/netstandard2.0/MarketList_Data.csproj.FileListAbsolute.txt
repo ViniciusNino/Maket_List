@@ -1,0 +1,12 @@
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netstandard2.0\MarketList_Data.deps.json
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netstandard2.0\MarketList_Data.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netstandard2.0\MarketList_Data.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netstandard2.0\MarketList_Model.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\bin\Debug\netstandard2.0\MarketList_Model.pdb
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netstandard2.0\MarketList_Data.csprojAssemblyReference.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netstandard2.0\MarketList_Data.AssemblyInfoInputs.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netstandard2.0\MarketList_Data.AssemblyInfo.cs
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netstandard2.0\MarketList_Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netstandard2.0\MarketList_Data.csproj.CopyComplete
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netstandard2.0\MarketList_Data.dll
+C:\Projetos\Nova MarketList\Market_List\MarketList_Data\obj\Debug\netstandard2.0\MarketList_Data.pdb
