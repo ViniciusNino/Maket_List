@@ -8270,20 +8270,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vinic\\.nuget\\packages\\": {}
+    "C:\\Users\\Nino\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Estudo Programacao\\Market_List\\MarketList.Test\\MarketList.Test.csproj",
+      "projectUniqueName": "p:\\Nino Programas\\Maket_List\\MarketList.Test\\MarketList.Test.csproj",
       "projectName": "MarketList.Test",
-      "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList.Test\\MarketList.Test.csproj",
-      "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "d:\\Estudo Programacao\\Market_List\\MarketList.Test\\obj\\",
+      "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList.Test\\MarketList.Test.csproj",
+      "packagesPath": "C:\\Users\\Nino\\.nuget\\packages\\",
+      "outputPath": "p:\\Nino Programas\\Maket_List\\MarketList.Test\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Nino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8294,15 +8302,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "d:\\Estudo Programacao\\Market_List\\MarketList_Api\\MarketList_Api.csproj": {
-              "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Api\\MarketList_Api.csproj"
+            "p:\\Nino Programas\\Maket_List\\MarketList_Api\\MarketList_Api.csproj": {
+              "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Api\\MarketList_Api.csproj"
             },
-            "d:\\Estudo Programacao\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj": {
-              "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_DTO\\MarketList_DTO.csproj"
+            "p:\\Nino Programas\\Maket_List\\MarketList_DTO\\MarketList_DTO.csproj": {
+              "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_DTO\\MarketList_DTO.csproj"
             },
-            "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\MarketList_Model.csproj": {
-              "projectPath": "d:\\Estudo Programacao\\Market_List\\MarketList_Model\\MarketList_Model.csproj"
+            "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj": {
+              "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj"
             }
           }
         }
@@ -8315,6 +8324,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -8356,7 +8366,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
