@@ -5141,11 +5141,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\Nino Programas\\Maket_List\\MarketList_Business\\MarketList_Business.csproj",
+      "projectUniqueName": "p:\\Nino Programas\\Maket_List\\MarketList_Business\\MarketList_Business.csproj",
       "projectName": "MarketList_Business",
-      "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_Business\\MarketList_Business.csproj",
+      "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Business\\MarketList_Business.csproj",
       "packagesPath": "C:\\Users\\Nino\\.nuget\\packages\\",
-      "outputPath": "P:\\Nino Programas\\Maket_List\\MarketList_Business\\obj\\",
+      "outputPath": "p:\\Nino Programas\\Maket_List\\MarketList_Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5168,14 +5168,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "P:\\Nino Programas\\Maket_List\\MarketList_DTO\\MarketList_DTO.csproj": {
-              "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_DTO\\MarketList_DTO.csproj"
+            "p:\\Nino Programas\\Maket_List\\MarketList_DTO\\MarketList_DTO.csproj": {
+              "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_DTO\\MarketList_DTO.csproj"
             },
-            "P:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj": {
-              "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj"
+            "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj": {
+              "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj"
             },
-            "P:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj": {
-              "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj"
+            "p:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj": {
+              "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj"
             }
           }
         }

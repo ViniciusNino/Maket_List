@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj": {}
+    "p:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj": {}
   },
   "projects": {
-    "P:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj": {
+    "p:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj",
+        "projectUniqueName": "p:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj",
         "projectName": "MarketList_Data",
-        "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj",
+        "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj",
         "packagesPath": "C:\\Users\\Nino\\.nuget\\packages\\",
-        "outputPath": "P:\\Nino Programas\\Maket_List\\MarketList_Data\\obj\\",
+        "outputPath": "p:\\Nino Programas\\Maket_List\\MarketList_Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "P:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj": {
-                "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj"
+              "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj": {
+                "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "P:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj": {
+    "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj",
+        "projectUniqueName": "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj",
         "projectName": "MarketList_Model",
-        "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj",
+        "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj",
         "packagesPath": "C:\\Users\\Nino\\.nuget\\packages\\",
-        "outputPath": "P:\\Nino Programas\\Maket_List\\MarketList_Model\\obj\\",
+        "outputPath": "p:\\Nino Programas\\Maket_List\\MarketList_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -162,14 +162,14 @@
         }
       }
     },
-    "P:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj": {
+    "p:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj",
+        "projectUniqueName": "p:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj",
         "projectName": "MarketList_Repository",
-        "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj",
+        "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Repository\\MarketList_Repository.csproj",
         "packagesPath": "C:\\Users\\Nino\\.nuget\\packages\\",
-        "outputPath": "P:\\Nino Programas\\Maket_List\\MarketList_Repository\\obj\\",
+        "outputPath": "p:\\Nino Programas\\Maket_List\\MarketList_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -192,11 +192,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "P:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj": {
-                "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj"
+              "p:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj": {
+                "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Data\\MarketList_Data.csproj"
               },
-              "P:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj": {
-                "projectPath": "P:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj"
+              "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj": {
+                "projectPath": "p:\\Nino Programas\\Maket_List\\MarketList_Model\\MarketList_Model.csproj"
               }
             }
           }
