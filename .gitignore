@@ -455,3 +455,6 @@ $RECYCLE.BIN/
 
 # Bloquei de commit na master
 !.git/hooks/update
+!appsettings.json
+
+*.json
